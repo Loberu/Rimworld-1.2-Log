@@ -1,0 +1,1895 @@
+Mono path[0] = 'C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Juegos/RimWorld 1.2/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 (ID=0x11c0)
+    Vendor:   
+    VRAM:     1970 MB
+    Driver:   26.21.14.4274
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.137 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.748477 ms
+[Steamworks.NET] SteamAPI.Init() failed. Possible causes: Steam client not running, launched from outside Steam without steam_appid.txt in place, running with different privileges than Steam client (e.g. "as administrator")
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+RimWorld 1.2.2753 rev712
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod 730936602_achtung is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000110F4BF0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000010F235D0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000111AB400.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000111D3820.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001120B630.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001122E440.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011249050.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011254660.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011258C70.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001125EC80.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011260490.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011264EA0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001101E7C0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011271AB0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000112730C0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011277AD0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000010F249E0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001127B6E0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001127DCF0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000110207D0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011289B00.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000112A5110.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000112B9920.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011372340.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011453560.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000114D8810.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000114F3420.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011530830.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011535C40.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011548650.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011552E90.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000115628C0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001156AAD0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000116410F0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000116C4C40.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000000CE5ED00.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000000CE69510.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000000CE6E320.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000000CE76930.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000117F7E60.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011807A70.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011884A80.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011889090.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000118C70B0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000118EDAD0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000118F4EE0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000118FAEF0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000118FDD00.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001190FB10.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000010B27770.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000011915D20.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000140B20A0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000140E32B0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001410AEC0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000141402D0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000142750F0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000142D14C0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000142DAED0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000142E56E0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000142EE6F0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014303D00.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001430C120.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000143CF750.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000143F3B60.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144BAF80.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144BDF90.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144CFBA0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144D1FB0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144D7DC0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144DBBD0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144E4FE0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144E95F0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144EA800.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000144FBA20.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014541240.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014557A50.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000145D0D80.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000145F87A0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000146063B0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014664FD0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014684DE0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000147411C0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014745FD0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001474ABE0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014819600.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014833010.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001483A420.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014842430.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014909860.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014A11C90.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014ADB8C0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014BF3CE0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014BF6CF0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014BFC500.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014C07B10.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014C24D30.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014C27740.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014C3B160.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014C62B80.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014C64790.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014D1A7B0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014DD73D0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014E8D3F0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014E8E600.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014B08F40.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014EB4410.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014EB9420.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014EBB030.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014B14FA0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014F00050.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014F0C060.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014FD1E90.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014FEA6A0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014FF40B0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000014F19270.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000150B9EF0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000150BD500.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000150C0B10.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000015176540.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001517A760.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001517FB80.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000015186B90.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000151907A0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000152477C0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001530B9E0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000153D3200.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000010F25DF0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000155F1F00.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001575D760.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000015764370.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001578A1A0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-000000001579CBC0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000157A6FD0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000157D3DF0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000157D5800.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000157ECE10.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-00000000157FDC20.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000015800630.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000015802240.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000015A330B0.dll
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000015B1EC20.dll
+[RuntimeGC] Mod settings loaded.
+[HugsLib] version 8.0.1
+DependencyChecker!
+CombatExtended :: Applying compatibility patch for RunAndGun, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+Combat Extended :: Harmony_GenRadial_RadialPatternCount :: Info: Post GenRadial patch maximum radius: 119.4194
+Combat Extended :: initialized
+Fallback handler could not load library C:/Juegos/RimWorld 1.2/RimWorldWin64_Data/Mono/data-0000000016E308B0.dll
+Dubs Bad Hygiene 2.8.1583
+DubsBreakMod 1.0.471
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+[Pawn Rules v1.4.4] Initialized
+DubsMintMenus v1.2.644
+Rimatomics 1.7.2168
+Rimefeller 1.2.884
+Extended Storage 3.5.0.27814 - Harmony patches successful
+VFEI - Harmony patches applied
+LWM Deep Storage: activated compatibility patch for Combat Extended
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+LWM Deep Storage: activated compatibility patch for VGP Garden Fabrics
+LWM Deep Storage: activated compatibility patch for VGP Vegetable Garden
+ADS Easily Patched AEXP_Coyote+(recipes), AEXP_Giraffe+(recipes), AEXP_Hippopotamus+(recipes), AEXP_Zebra+(recipes), AEXP_Wildebeest+(recipes), AEXP_Crocodile+(recipes), AEXP_Cheetah+(recipes), AEXP_CatAbyssinian+(recipes), AEXP_CatBengal+(recipes), AEXP_CatBritishShorthair+(recipes), AEXP_CatMaineCoon+(recipes), AEXP_CatMunchkin+(recipes), AEXP_CatNorwegianForest+(recipes), AEXP_CatPersian+(recipes), AEXP_CatSiamese+(recipes), AEXP_CatSomali+(recipes), AEXP_CatSphynx+(recipes), AEXP_Beagle+(recipes), AEXP_Chihuahua+(recipes), AEXP_Corgi+(recipes), AEXP_FrenchBulldog+(recipes), AEXP_GermanShepherd+(recipes), AEXP_GreatDane+(recipes), AEXP_Poodle+(recipes), AEXP_Pug+(recipes), AEXP_Rottweiler+(recipes), AEXP_Shih-Tzu+(recipes), AEXP_WelshTerrier+(recipes), AEXP_Alligator+(recipes), 
+ADS Easily Patched AEXP_Coyote, AEXP_Giraffe, AEXP_Hippopotamus, AEXP_Zebra, AEXP_Wildebeest, AEXP_Crocodile, AEXP_Cheetah, AEXP_CatAbyssinian, AEXP_CatBengal, AEXP_CatBritishShorthair, AEXP_CatMaineCoon, AEXP_CatMunchkin, AEXP_CatNorwegianForest, AEXP_CatPersian, AEXP_CatSiamese, AEXP_CatSomali, AEXP_CatSphynx, AEXP_Beagle, AEXP_Chihuahua, AEXP_Corgi, AEXP_FrenchBulldog, AEXP_GermanShepherd, AEXP_GreatDane, AEXP_Poodle, AEXP_Pug, AEXP_Rottweiler, AEXP_Shih-Tzu, AEXP_WelshTerrier, AEXP_Alligator, 
+ADS Easily Patched AEXP_Coyote, AEXP_Giraffe, AEXP_Hippopotamus, AEXP_Zebra, AEXP_Wildebeest, AEXP_Crocodile, AEXP_Cheetah, AEXP_CatAbyssinian, AEXP_CatBengal, AEXP_CatBritishShorthair, AEXP_CatMaineCoon, AEXP_CatMunchkin, AEXP_CatNorwegianForest, AEXP_CatPersian, AEXP_CatSiamese, AEXP_CatSomali, AEXP_CatSphynx, AEXP_Beagle, AEXP_Chihuahua, AEXP_Corgi, AEXP_FrenchBulldog, AEXP_GermanShepherd, AEXP_GreatDane, AEXP_Poodle, AEXP_Pug, AEXP_Rottweiler, AEXP_Shih-Tzu, AEXP_WelshTerrier, AEXP_Alligator, 
+XML error: Duplicate XML node name comps in this XML block: <ThingDef ParentName="AnimalThingBase"><defName>AA_Gallatross</defName><label>gallatross</label><description>Throughout every world,
+      Flow the tale of old,
+      A creature with untold might
+      And an immeasurable height.
+      Strength that machines can’t copy
+      Power that so-called gods call heresy.
+      Beware, beware would-be foes
+      Beware, the wrath of the Gallatross.</description><statBases><MoveSpeed>5.7</MoveSpeed><ComfyTemperatureMin>-100</ComfyTemperatureMin><MarketValue>4000</MarketValue><PsychicSensitivity>0</PsychicSensitivity><AimingAccuracy>0.6</AimingAccuracy><ArmorRating_Blunt>26</ArmorRating_Blunt><ArmorRating_Sharp>13</ArmorRating_Sharp><MeleeDodgeChance>0.02</MeleeDodgeChance><MeleeCritChance>1.75</MeleeCritChance><MeleeParryChance>0.25</MeleeParryChance></statBases><tools><li Class="CombatExtended.ToolCE"><label>horn</label><capacities><li>Blunt</li></capacities><power>60</power><cooldownTime>2.5</cooldownTime><linkedBodyPartsGroup>HornAttackTool</linkedBodyPartsGroup><armorPenetrationBlunt>40.226</armorPenetrationBlunt></li><li Class="CombatExtended.ToolCE"><capacities><li>Bite</li></capacities><power>48</power><cooldownTime>2.0</cooldownTime><linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup><armorPenetrationSharp>16</armorPenetrationSharp><armorPenetrationBlunt>28</armorPenetrationBlunt></li><li Class="CombatExtended.ToolCE"><label>head</label><capacities><li>Blunt</li></capacities><power>40</power><cooldownTime>2</cooldownTime><linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup><armorPenetrationBlunt>25</armorPenetrationBlunt><chanceFactor>0.1</chanceFactor></li></tools><verbs><li Class="CombatExtended.VerbPropertiesCE"><verbClass>CombatExtended.Verb_ShootCE</verbClass><hasStandardCommand>true</hasStandardCommand><defaultProjectile>AA_Bullet_Rock</defaultProjectile><warmupTime>2</warmupTime><burstShotCount>1</burstShotCount><ticksBetweenBurstShots>2</ticksBetweenBurstShots><minRange>2</minRange><range>30</range><soundCast>AA_RockThrow</soundCast><muzzleFlashScale>0</muzzleFlashScale><ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer><commonality>1</commonality></li></verbs><race><herdAnimal>false</herdAnimal><predator>false</predator><body>QuadrupedAnimalWithHoovesAndHorn</body><baseBodySize>6.00</baseBodySize><baseHungerRate>5.0</baseHungerRate><baseHealthScale>15</baseHealthScale><foodType>VegetarianRoughAnimal, DendrovoreAnimal</foodType><leatherDef>Leather_Gallatross</leatherDef><willNeverEat><li MayRequire="Ludeon.RimWorld.Royalty">Plant_TreeAnima</li></willNeverEat><wildness>0.99</wildness><manhunterOnDamageChance>1.0</manhunterOnDamageChance><manhunterOnTameFailChance>0.3</manhunterOnTameFailChance><trainability>Advanced</trainability><gestationPeriodDays>75</gestationPeriodDays><litterSizeCurve><points><li>(0.99, 0)</li><li>(1, 1)</li><li>(1.01, 0)</li></points></litterSizeCurve><lifeExpectancy>300</lifeExpectancy><lifeStageAges><li><def>AnimalBaby</def><minAge>0</minAge></li><li><def>AnimalJuvenile</def><minAge>2.0</minAge></li><li><def>AnimalAdult</def><minAge>4</minAge><soundCall>Pawn_Thrumbo_Call</soundCall><soundAngry>Pawn_Thrumbo_Angry</soundAngry><soundWounded>Pawn_Thrumbo_Pain</soundWounded><soundDeath>Pawn_Thrumbo_Death</soundDeath></li></lifeStageAges><soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn><soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding><soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss></race><tradeTags><li>AnimalExotic</li><li>AnimalAlpha</li></tradeTags><modExtensions><li Class="CombatExtended.RacePropertiesExtensionCE"><bodyShape>Quadruped</bodyShape></li></modExtensions><comps><li Class="AlphaBehavioursAndEvents.CompProperties_InitialHediff"><hediffname>AA_LowBleed</hediffname><hediffseverity>1</hediffseverity></li></comps><comps><li Class="GiddyUpCore.CompProperties_Overlay"><overlaySide><graphicDataDefault><texPath>Things/Pawn/Animal/Saddles/AA_Saddle5Gallatross_east</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>4.5</drawSize><drawRotated>false</drawRotated></graphicDataDefault><offsetDefault>(0,0,0,0)</offsetDefault></overlaySide><overlayFront><graphicDataDefault><texPath>Things/Pawn/Animal/Saddles/AA_Saddle5Gallatross_south</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>4.5</drawSize><drawRotated>false</drawRotated></graphicDataDefault><offsetDefault>(0,0,0,0)</offsetDefault></overlayFront><overlayBack><graphicDataDefault><texPath>Things/Pawn/Animal/Saddles/AA_Saddle5Gallatross_north</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>4.5</drawSize><drawRotated>false</drawRotated></graphicDataDefault><offsetDefault>(0,0,0,0)</offsetDefault></overlayBack></li></comps></ThingDef>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Turret_Sniper
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tried to load SymbolDef with non-existant thing: Turret_Autocannon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Config error in AA_GallatrossMoribund: verb 0: has incorrect forcedMiss settings; explosive projectiles and only explosive projectiles should have forced miss enabled
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Config error in AA_GallatrossMoribund: verb 0: has incorrect forcedMiss settings; explosive projectiles and only explosive projectiles should have forced miss enabled
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Key binding conflict: Dev_ChangeSelectedDebugAction and MainTab_Architect are both bound to Tab.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+d3d11: failed to create 2D texture id=6722 width=4 height=125 mips=8 dxgifmt=28 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 496)
+
+d3d11: failed to create 2D texture shader resource view id=6722 [D3D error was 80070057]
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/GfxDevice/d3d11/TexturesD3D11.cpp Line: 460)
+
+Translation data for language English has 31 errors. Generate translation report for more info.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Uuugggg.rimworld.Replace_Stuff.main] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.GhostDrawer.DrawGhostThing
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Alien race successfully completed 136 patches with harmony.
+More Vanilla Biomes initialized
+MoreTraitSlots Harmony Patches:
+  Prefix:
+    PawnGenerator.GenerateTraits [HarmonyPriority(Priority.VeryHigh)]
+[LifeSupport] found DeathRattle
+WorkTab hotfix initialized
+[PL] Trying to find: Quarry 1.1, Result: True
+Enabled Prison Labor v1.2.0
+Could not load UnityEngine.Texture2D at ForceButton0L in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceButton0M in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceButton0R in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceButton1L in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceButton1M in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceButton1R in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceIcon in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+MatFrom with null sourceTex.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at AchtungMarker in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+MatFrom with null sourceTex.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceRadiusExpand in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceRadiusShrink in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not load UnityEngine.Texture2D at ForceRadiusShrinkOff in any active mod or in base resources.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Bubbles v1.6.2] Initialized
+[CMColorCodedMoodBar] CMColorCodedMoodBar initialized
+PickUpAndHaul v0.1.1.0⅓ welcomes you to RimWorld with pointless logspam.
+[ModMetaDataCleaner] Removed 4 Metadata and cleaned 136 PreviewImage.
+Removed: Expanded Prosthetics and Organ Engineering, Pawnmorpher: Insectoids, Pawnmorpher, RimHUD
+Cleaned: Pawn Rules, Combat Extended, LBE's A Dog Said Easy Patcher, JecsTools (Unofficial), Simple sidearms, Realistic Rooms, Humanoid Alien Races 2.0, Dubs Bad Hygiene, HugsLib, Increased Stack, RIMkea, Defensive Positions, Hospitality, A Dog Said... Animal Prosthetics, FashionRIMsta, MendAndRecycle, EdB Prepare Carefully, Extended Storage, 730936602_achtung, Apparello 2, RT Fuse, Work Tab, Medical Tab, Colony Manager, CE Guns/VWE - Consistency Patch, Gun Nut - Chapter #2, Vanilla Factions Expanded - Vikings, RuntimeGC, Life Support Continued [1.1][1.2], Gun Nut - Chapter #1, Death Rattle Continued [1.2], Vanilla Plants Expanded - Succulents, Doors Expanded (Dev), Vanilla Weapons Expanded - Grenades, Vanilla Books Expanded, Vanilla Hair Expanded - Beards, Vanilla Brewing Expanded, Netrve's DeepStorage GUI, No Sympathy for Prisoners, Undraft After Tucking, Vanilla Factions Expanded - Insectoids, Vanilla Storytellers Expanded - Perry Persistent, Vanilla Cooking Expanded - Stews, Vanilla Plants Expanded, Vanilla Cooking Expanded, [SYR] Universal Fermenter, Shit Rimworld Says, Vanilla Furniture Expanded - Power, Vanilla Factions Expanded - Settlers, Architect Expanded - Fences (Tab Patch), Architect Expanded - Fences, Jobs of Opportunity (While You're Up), Vanilla Factions Expanded - Medieval, Vanilla Expanded Framework, Stabilize, Vanilla Textures Expanded, Psychology (unofficial 1.1/1.2) , ToolBox, Restricted Storage, Gas Traps And Shells, Realistic Planets - Fan Update, Harmony, EPOE-Forked: Royalty DLC expansion, Quarry 1.1, VGP Xtra Trees and Flowers, VGP Garden Resources, VGP More Veggies, VGP Garden Medicine, VGP Garden Gourmet, VGP Garden Fabrics, VGP Garden Canning, VGP Vegetable Garden, CM Color Coded Mood Bar [1.1+], Empire, Vanilla Furniture Expanded - Art, Vanilla Furniture Expanded - Farming, Expanded Prosthetics and Organ Engineering - Forked, More Vanilla Biomes, Vanilla Fishing Expanded, Vanilla Animals Expanded — Tropical Swamp, Vanilla Animals Expanded — Tropical Rainforest, Vanilla Weapons Expanded - Quickdraw, Prison Labor, Vanilla Animals Expanded — Boreal Forest, Vanilla Animals Expanded — Ice Sheet, Vanilla Animals Expanded — Tundra, Vanilla Hair Expanded, Vanilla Furniture Expanded - Production, Vanilla Animals Expanded — Extreme Desert, Vanilla Animals Expanded — Desert, Vanilla Furniture Expanded - Security, Vanilla Animals Expanded — Arid Shrubland, Vanilla Animals Expanded — Cats and Dogs, Vanilla Armour Expanded, Vanilla Apparel Expanded, Vanilla Weapons Expanded, Dubs Break Mod, Vanilla Furniture Expanded - Medical Module, Vanilla Furniture Expanded, Simple Chains: Lumber, LWM's Deep Storage, [CP] Rimmu-Nation - Weapons, Combat Extended Guns, Ugh You Got Me, Smoked meat, Alpha Animals, Interaction Bubbles, [KV] Faction Control, [FSF] Filth Vanishes With Rain And Time, [KV] More Trait Slots, Mod Manager, [KV] Consolidated Traits, Smart Speed, Dubs Mint Menus, Wall Light, Numbers, Replace Stuff, Pharmacist, Locks (DoorsExpanded), Rimefeller, Snap Out!, Better Infestations 1.2, Pick Up And Haul, Giddy-up! Caravan, Giddy-up! Battle Mounts, Giddy-up! Core, Harvest Organs Post Mortem, RunAndGun, [KV] RimFridge, [KV] Trading Spot, Locks, Rimatomics, Animals Logic, Megafauna, Royalty, Core
+[RuntimeGC] Detour completed: MuteGC
+Combat Extended :: Ammo injected
+Combat Extended :: Bounds pre-generated
+VanillaFurnitureExpandedShields.CanInstall() - True
+[HugsLib] initializing GiddyUpCore, BattleMounts, GiddyUpCaravan, Autopsy, DeathRattle, Linkolas.Stabilize, Psychology, PeteTimesSix.SimpleSidearms, Hospitality, CodeOptimist.JobsOfOpportunity, RunAndGun, DefensivePositions, LWM_DeepStorage
+Injecting guest beds into the following facilities: EndTable, Dresser, VitalsMonitor, Table_LightEndTable, Table_Wardrobe, Table_RoyalEndTable, Table_RoyalDresser, Facility_VitalsCentre, Facility_IVDrip
+Created guest beds for the following beds: SleepingSpot, DoubleSleepingSpot, Bed, DoubleBed, RoyalBed, HospitalBed, Bedroll, BedrollDouble, VFEV_FurBed, VFEV_DoubleFurBed, PILFURBed, SNOREGGSingle, SNOREGGDouble, KRUDNEPPSingle, SLABNEPPDouble, Bed_StoneSlab, Bed_Simple, Bed_Ergonomic, Bed_DoubleErgonomic, Bed_Kingsize, Bed_OperatingTable, Bed_CryptoBed
+Invalid packageId 'Core' resolved to 'ludeon.rimworld'
+Invalid packageId 'Core' resolved to 'ludeon.rimworld'
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Failed to parse dependency: <li>JecsTools</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: 'JecsTools'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>2009463077</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '2009463077'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>2026720565</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '2026720565'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>1541287769</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '1541287769'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>1729446857</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '1729446857'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>2009463077</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '2009463077'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>TerraProject</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: 'TerraProject'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid packageId 'ExpandedProstheticsandOrganEngineering' resolved to 'ykara.epoe'
+Failed to parse dependency: <li>QuestionableEthics</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: 'QuestionableEthics'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Invalid packageId 'Harmony' resolved to 'brrainz.harmony'
+Invalid packageId 'Harmony' resolved to 'brrainz.harmony'
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Failed to parse dependency: <li>JecsTools</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: 'JecsTools'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Invalid packageId 'Royalty' resolved to 'ludeon.rimworld.royalty'
+Invalid packageId 'WorkTab' resolved to 'fluffy.worktab'
+Invalid packageId 'PickUpAndHaul' resolved to 'mehni.pickupandhaul'
+Invalid packageId 'CombatExtended' resolved to 'ceteam.combatextended'
+Invalid packageId 'CombatExtended' resolved to 'ceteam.combatextended'
+Failed to parse dependency: <li>[1.0]RimCuisine2Core</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '[1.0]RimCuisine2Core'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>[1.0]RimCuisine2:BottlingandBoozeExpansion</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '[1.0]RimCuisine2:BottlingandBoozeExpansion'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid packageId 'VanillaWeaponsExpanded' resolved to 'vanillaexpanded.vwe'
+Loading ModList from C:/Users/Lobu/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\ModLists\ModList1.xml failed: ModList contains no mods.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading ModList from C:/Users/Lobu/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\ModLists\test1.xml failed: ids and names unbalanced.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid packageId 'Core' resolved to 'ludeon.rimworld'
+Failed to parse dependency: <li>2009463077</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '2009463077'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>2026720565</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '2026720565'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>1541287769</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '1541287769'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>1729446857</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '1729446857'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse dependency: <li>2009463077</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: '2009463077'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to fetch https://github.com/Dubwise56/Rimefeller/master/About/Manifest.xml (ProtocolError:
+The remote server returned an error: (404) Not Found.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Failed to parse dependency: <li>JecsTools</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: 'JecsTools'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Invalid packageId 'Royalty' resolved to 'ludeon.rimworld.royalty'
+Invalid packageId 'WorkTab' resolved to 'fluffy.worktab'
+Invalid packageId 'PickUpAndHaul' resolved to 'mehni.pickupandhaul'
+Invalid packageId 'CombatExtended' resolved to 'ceteam.combatextended'
+Invalid packageId 'CombatExtended' resolved to 'ceteam.combatextended'
+Invalid packageId 'Core' resolved to 'ludeon.rimworld'
+Invalid packageId 'HugsLib' resolved to 'unlimitedhugs.hugslib'
+Failed to parse dependency: <li>JecsTools</li>.
+Inner exception: System.IO.InvalidDataException: Invalid packageId: 'JecsTools'
+  at ModManager.Dependency.TryParseIdentifier (System.String text, System.Xml.XmlNode node) [0x0006f] in <493fbfcbeef84e44a8e3d825159b380f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.616837 ms
+
+Unloading 1579 unused Assets to reduce memory usage. Loaded Objects now: 27689.
+Total: 745.478343 ms (FindLiveObjects: 2.937749 ms CreateObjectMapping: 2.363484 ms MarkObjects: 737.270460 ms  DeleteObjects: 2.905443 ms)
+
+Loading game from file Kantabrian Clan with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - user19990313.RuntimeGC
+  - Ludeon.RimWorld.Royalty
+  - UnlimitedHugs.HugsLib
+  - jecrell.jecstools
+  - erdelf.HumanoidAlienRaces
+  - EdB.PrepareCarefully
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyupcaravan
+  - jecrell.doorsexpanded
+  - CETeam.CombatExtended
+  - OskarPotocki.VFE.Vikings
+  - Nif.ToolBox
+  - fluffy.modmanager
+  - zylle.MoreVanillaBiomes
+  - SaucyPigeon.RealisticPlanets
+  - VSE.PerryPersistent
+  - factioncontrol.kv.rw
+  - moretraitslots.kv.rw
+  - consolidatedtraits.kv.rw
+  - dismarzero.VGP.VGPGardenMedicine
+  - spoonshortage.ADogSaidAnimalProsthetics
+  - vat.epoeforked
+  - vat.epoeforkedroyalty
+  - Smuffle.HarvestOrgansPostMortem
+  - Troopersmith1.DeathRattle
+  - Troopersmith1.LifeSupport
+  - Linkolas.Stabilize
+  - zyxabacab.NoSympathyForPrisoners
+  - Community.Psychology.UnofficialUpdate
+  - PeteTimesSix.SimpleSidearms
+  - Orion.Hospitality
+  - avius.prisonlabor
+  - Dubwise.DubsBadHygiene
+  - avius.locks
+  - avius.locksdoorsexpanded
+  - sarg.smartspeed
+  - Uuugggg.ReplaceStuff
+  - Taveron.IncreasedStack
+  - CodeOptimist.JobsOfOpportunity
+  - weilbyte.snapout
+  - Anonymous189.730936602Uachtung
+  - roolo.RunAndGun
+  - Dubwise.DubsBreakMod
+  - Oblitus.AnimalsLogic
+  - marvinkosh.ughyougotme
+  - madarauchiha.undraftaftertucking
+  - tradingspot.kv.rw
+  - notfood.MendAndRecycle
+  - fluffy.pharmacist
+  - fluffy.medicaltab
+  - fluffy.worktab
+  - Mehni.Numbers
+  - fluffy.colonymanager
+  - crlsniper.realisticrooms
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - machine.betterinfestations
+  - UnlimitedHugs.DefensivePositions
+  - fluffy.shitrimworldsays
+  - Jaxe.Bubbles
+  - CrashM.ColorCodedMoodBar.11
+  - Jaxe.PawnRules
+  - Dubwise.DubsMintMenus
+  - VanillaExpanded.VTEXE
+  - dismarzero.VGP.Smokedmeat
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VBooksE
+  - Dubwise.Rimatomics
+  - Ogliss.TheWhiteCrayon.Quarry
+  - Dubwise.Rimefeller
+  - Shinzy.Apparello
+  - spoonshortage.fashionrimsta
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VARME
+  - spoonshortage.rimkea
+  - rimfridge.kv.rw
+  - ratys.rtfuse
+  - Murmur.WallLight
+  - syrchalis.universalfermenter
+  - Owlchemist.SimpleChains.Lumber
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFESecurity
+  - Nif.ArchitectExpanded.Fences
+  - Nif.ArchitectExpanded.FencesTabPatch
+  - Skullywag.ExtendedStorage
+  - LWM.DeepStorage
+  - netrve.dsgui
+  - LWM.RestrictedStorage
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VPlantsESucculents
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEG
+  - VanillaExpanded.VWEQ
+  - CP.RimmuNation.Weapons
+  - Harkon.GunNut.Chapter1
+  - Harkon.GunNut.Chapter2
+  - CETeam.CombatExtendedGuns
+  - Harkon.CEGunsVWEConsistencyPatch
+  - com.distman.gastrap
+  - dismarzero.VGP.VGPVegetableGarden
+  - dismarzero.VGP.VGPGardenCanning
+  - dismarzero.VGP.VGPGardenFabrics
+  - dismarzero.VGP.VGPGardenGourmet
+  - dismarzero.VGP.VGPGardenResources
+  - dismarzero.VGP.VGPMoreVeggies
+  - dismarzero.VGP.XtraTreesandFlowers
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VHE.Beards
+  - VanillaExpanded.VAEAS
+  - VanillaExpanded.VAEBF
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VAED
+  - VanillaExpanded.VAEED
+  - VanillaExpanded.VAEIS
+  - VanillaExpanded.VAETR
+  - VanillaExpanded.VAETS
+  - VanillaExpanded.VAET
+  - sarg.alphaanimals
+  - Spino.Megafauna
+  - Mehni.PickUpAndHaul
+  - OskarPotocki.VFE.Insectoid
+  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
+  - OskarPotocki.VanillaFactionsExpanded.SettlersModule
+  - lbeaston.ADogSaidEasyPatcher
+  - Saakra.Empire
+Error while determining if Mendez should have Need Chemical_Alcohol: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_Ambrosia: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_GoJuice: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_Luciferium: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_Psychite: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_Smokeleaf: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_WakeUp: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Mood: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Food: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Rest: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Authority: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_Tobacco: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Chemical_Methadone: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Bladder: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need Hygiene: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need DBHThirst: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need VBE_Chemical_Caffeine: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need VBE_Chemical_Tobacco: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error while determining if Mendez should have Need VFEI_Chemical_RoyalJelly: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) RimWorld.Pawn_NeedsTracker.RimWorld.Pawn_NeedsTracker.ShouldHaveNeed_Patch2(RimWorld.Pawn_NeedsTracker,RimWorld.NeedDef)
+  at RimWorld.Pawn_NeedsTracker.AddOrRemoveNeedsAsAppropriate () [0x00016] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find think node with key -1213382845
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cleaned up 43 deprecated records from Giddy-up!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+Empire - Test Settlements
+Empire - Test Settlement Save
+Empire - Test FactionDef Change
+Empire - Setting Null Variables
+Empire - Testing Settlements for null variables
+Empire - Testing for traits with no tie
+Empire - Testing for invalid capital map
+Empire - Testing for update change
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37528.
+Total: 997.755777 ms (FindLiveObjects: 3.041310 ms CreateObjectMapping: 3.050367 ms MarkObjects: 991.469056 ms  DeleteObjects: 0.194139 ms)
+
+Exception filling tab CombatExtended.ITab_Inventory: System.NullReferenceException: Object reference not set to an instance of an object
+  at CombatExtended.Utility_Loadouts.GetLoadout (Verse.Pawn pawn) [0x00019] in <f592e0fe3b5545c39314bc4c847517d9>:0 
+  at CombatExtended.ITab_Inventory.FillTab () [0x00465] in <f592e0fe3b5545c39314bc4c847517d9>:0 
+  at Verse.InspectTabBase+<>c__DisplayClass14_0.<DoTabGUI>b__0 () [0x00039] in <d72310b4d8f64d25aee502792b58549f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Alignment was MiddleLeft at end of frame.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+ 
+(Filename: C:\buildslave\unity\build\Modules/IMGUI/GUIClip.cpp Line: 580)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
